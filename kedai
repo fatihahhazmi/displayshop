@@ -1,0 +1,129 @@
+<style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f9f9f9;
+      margin: 0;
+      padding: 20px;
+    }
+
+    h1 {
+      text-align: center;
+      margin-bottom: 30px;
+    }
+
+    .shop {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      max-width: 800px;
+      margin: 0 auto;
+    }
+
+    .product {
+      width: 240px;
+      margin: 20px;
+      padding: 15px;
+      background-color: #ffffff;
+      border-radius: 5px;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+      text-align: center;
+    }
+
+    .product img {
+      width: 100%;
+      height: 150px;
+      object-fit: cover;
+      border-radius: 5px;
+      margin-bottom: 10px;
+    }
+
+    .product h3 {
+      font-size: 18px;
+      margin-bottom: 5px;
+    }
+
+    .product p {
+      font-size: 14px;
+      color: #777777;
+      margin-bottom: 10px;
+    }
+
+    .product span {
+      display: block;
+      font-size: 16px;
+      font-weight: bold;
+      margin-bottom: 10px;
+    }
+
+    .buy-button {
+      display: inline-block;
+      padding: 10px 20px;
+      background-color: #4CAF50;
+      color: #ffffff;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+
+    .buy-button:hover {
+      background-color: #45a049;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="shop">
+    <div class="product">
+      <img src="https://www.pulp-circumstance.com/cdn/shop/products/5291dfbbd41b313e7ef6d34f044d5324c6936d5d8ac6d69ff11aa5aeb1e1aa25_704x704.jpg?v=1651967364
+" alt="Product 1">
+      <h3>Linen Handmade Journal Notebook</h3>
+      <span>$19.99</span>
+      <p>200 pages unique journal</p>
+      <a href="https://fatihahhazmi.blogspot.com/p/test-page.html
+               " class="buy-button">Buy</a>
+    </div>
+    <div class="product">
+      <img src="https://rishi-tea.com/cdn/shop/files/tp192_roundballteapot-tp192-sana_800x.jpg?v=1690825252
+                " alt="Product 2">
+      <h3>Mini ohraet teapot</h3>
+      <span>$24.99</span>
+      <p>10 cm pottery as gift</p>
+      <a href="https://fatihahhazmi.blogspot.com/p/test-page.html
+               " class="buy-button">Buy</a>
+    </div>
+    <div class="product">
+      <img src="Z
+                " alt="Product 3">
+      <h3>Negeri Santubong: Sejarah Awal Sarawak</h3>
+      <span>$14.99</span>
+      <p>Segala persoalan terjawab dan menyingkap tamadun Melayu di Sarawak</p>
+      <a href="https://melayusarawak.org.my/penerbitan/negeri-santubing-sejarah-awal-sarawak-300ess-1647es/
+               " class="buy-button">Buy</a>
+    </div>
+    <div class="product">
+      <img src="https://sep.turbifycdn.com/ca/I/yhst-55466754130796_2272_690303546
+                " alt="Product 4">
+      <h3>Best of Omar Khairat</h3>
+      <span>$29.99</span>
+      <p>All best Omar Khairat masterpiece</p>
+      <a href="https://www.a1arabicdvd.com/best-of-omar-khairat-10-audio-cd.html
+               " class="buy-button">Buy</a>
+    </div>
+    <div class="product">
+      <img src="https://sep.turbifycdn.com/ca/I/yhst-55466754130796_2272_690303546
+                " alt="Product 4">
+      <h3>Best of Omar Khairat</h3>
+      <span>$29.99</span>
+      <p>All best Omar Khairat masterpiece</p>
+      <a href="https://www.a1arabicdvd.com/best-of-omar-khairat-10-audio-cd.html
+               " class="buy-button">Buy</a>
+    </div>
+    <!-- Add more product items here -->
+  </div>
+
+</body>
+</html>
+
+
+
+
+<!---Feel free to duplicate the product `<div>` to add more products, and don't forget to modify the content for each new product item (black text). code by assistant. Test by Fatihah🗿
